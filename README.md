@@ -162,7 +162,6 @@ endmodule
 ![image](https://github.com/NITHIYANANDAN278/Project-Based-Experiment/assets/121784636/72660504-069c-4d09-bd09-0fd717ede7fc)
 
 **Result:**
-
-
+thus the program executed successfully
 
 
